@@ -463,13 +463,14 @@ h6 {
   height: 75vh;
   /*background: url("../img/hero-bg.jpg") top left;*/
   background: url("../img/vlar-banner-large.png") top left;
+  /*background: url("../img/smart101-bg.png") top left;*/
   background-size: cover;
   position: relative;
 }
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.4);
   position: absolute;
   bottom: 0;
   top: 0;
